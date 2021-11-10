@@ -1,3 +1,10 @@
 Git é repositorio... 
 
 Salvando o arquivo... 
+
+git pull
+git status
+git add .
+git commit -m "comenta alguma coisa o que vc fez"
+git status
+git push
